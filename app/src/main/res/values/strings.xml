@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="F_R">Formulario de registro</string>
+    <string name="nom">Nombre</string>
+    <string name="email">E-mail</string>
+    <string name="tf">Teléfono</string>
+    <string name="contra">Contraseña</string>
+    <string name="contra2">Confirmar contraseña</string>
+    <string name="gen">Género:</string>
+    <string name="reg">Registrar</string>
+    <string name="masc">Masculino</string>
+    <string name="fem">Femenino</string>
+    <string name="hb">Hobbies:</string>
+    <string name="cine">Cine</string>
+    <string name="video">Video juegos</string>
+    <string name="series">Series</string>
+    <string name="caminar">Caminar</string>
+    <string name="Lugar">Lugar de nacimiento:</string>
+    <string name="fecha">Fecha de nacimiento:</string>
+    <string name="nacimiento">MM/dd/yyyy</string>
+    <string name="bt_cal">Botón Calendario</string>
+
+    <string-array name="lista_ciudades">
+        <item>Medellín</item>
+        <item>Bogotá</item>
+        <item>Manizales</item>
+        <item>Popayán</item>
+        <item>Cali</item>
+    </string-array>
+</resources>
